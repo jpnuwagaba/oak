@@ -41,7 +41,7 @@ export default function Component() {
               </div>
               <h3 className="text-xl font-semibold">Speed</h3>
               <p className="text-muted-foreground">
-                We believe in the importance of speed and agility to respond quickly to our clients' needs.
+                We believe in the importance of speed and agility to respond quickly to our clients&apos; needs.
               </p>
             </div>
             <div className="bg-background rounded-lg shadow-lg p-6 flex flex-col gap-4">
@@ -50,7 +50,7 @@ export default function Component() {
               </div>
               <h3 className="text-xl font-semibold">Quality</h3>
               <p className="text-muted-foreground">
-                We are committed to delivering high-quality work that exceeds our clients' expectations.
+                We are committed to delivering high-quality work that exceeds our clients&apos; expectations.
               </p>
             </div>
           </div>

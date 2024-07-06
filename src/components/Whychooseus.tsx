@@ -20,7 +20,7 @@ const Whychooseus = () => {
             </h2>
             <p className="max-w-[600px] text-davysGrey md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               Our team of experienced consultants is dedicated to helping businesses like yours achieve their goals.
-              With our proven track record and innovative approach, we're confident we can make a real difference.
+              With our proven track record and innovative approach, we&apos;re confident we can make a real difference.
             </p>
           </div>
           <ul className="grid gap-2 py-4 text-davysGrey">

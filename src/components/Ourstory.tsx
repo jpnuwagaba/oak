@@ -12,7 +12,7 @@ const Ourstory = () => {
             <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               OAK Professions has been a trusted name in the engineering,
               construction, and surveying industries for over 50 years.
-              Founded in 1970, we've grown to become one of the leading
+              Founded in 1970, we&apos;ve grown to become one of the leading
               providers of comprehensive solutions, delivering high-quality
               projects and exceptional service to our clients.
             </p>
@@ -45,7 +45,7 @@ const Ourstory = () => {
                 1995 - Awarded Industry Accolades
               </div>
               <div className="text-muted-foreground">
-                OAK Professions' commitment to excellence was recognized when
+                OAK Professions&apos; commitment to excellence was recognized when
                 the company received several industry awards for its
                 outstanding project management and safety practices.
               </div>
